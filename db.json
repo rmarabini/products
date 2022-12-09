@@ -2,21 +2,18 @@
  "products": [
         {
           "id": 11,
-          "nombre": "Jon",
-          "apellido": "Nieve",
-          "email": "jon@email.org"
+          "name": "Boots",
+          "quantity": "0",
         },
         {
           "id": 12,
-          "nombre": "Tyrion",
-          "apellido": "Lannister",
-          "email": "tyrion@email.org"
+          "name": "Trouses",
+          "quantity": "13",
         },
         {
           "id": 13,
-          "nombre": "Daenerys",
-          "apellido": "Targaryen",
-          "email": "daenerys@email.org"
+          "name": "Socks",
+          "quantity": "26",
         }
       ]
 }
