@@ -3,17 +3,17 @@
         {
           "id": 11,
           "name": "Boots",
-          "quantity": "0",
+          "quantity": "0"
         },
         {
           "id": 12,
           "name": "Trouses",
-          "quantity": "13",
+          "quantity": "13"
         },
         {
           "id": 13,
           "name": "Socks",
-          "quantity": "26",
+          "quantity": "26"
         }
       ]
 }
